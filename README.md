@@ -2,3 +2,6 @@
 - Add
 - Commit
 - Push
+
+On Cloud
+- Pull
