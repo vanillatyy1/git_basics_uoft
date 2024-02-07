@@ -5,3 +5,8 @@
 
 On Cloud
 - Pull
+
+Delete development
+- Instruction
+- Done
+I finished developing the feature
